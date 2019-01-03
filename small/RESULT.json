@@ -1,0 +1,48 @@
+{
+    "PARAMETER": {
+        "changed_limit": 5, 
+        "damping_factor": 0.5, 
+        "max_iteration": 20, 
+        "min_count": 3, 
+        "min_occur": 4, 
+        "preference": "median", 
+        "segment_range_ms": 21600000.0
+    }, 
+    "cluster_of_segments": [
+        2
+    ], 
+    "clustering_last_run": "Wednesday, 07 November 2018 10:23:00 AM", 
+    "clustering_time": 0.05145869164242356, 
+    "document_count": 10, 
+    "document_count_after_MIN_COUNT": 9, 
+    "document_count_after_MIN_OCCUR": 8, 
+    "end_of_segments": [
+        8
+    ], 
+    "iteration_of_segments": [
+        8
+    ], 
+    "preference_of_segments": [
+        0.06206257174892209
+    ], 
+    "segment_count": 1, 
+    "silhouette": 0.7040733414560543, 
+    "text_process_last_run": "Wednesday, 07 November 2018 10:23:00 AM", 
+    "text_process_time": 0.02990936156636792, 
+    "~clusters": [
+        {
+            "1": [
+                0, 
+                1, 
+                2, 
+                3
+            ], 
+            "7": [
+                4, 
+                5, 
+                6, 
+                7
+            ]
+        }
+    ]
+}
